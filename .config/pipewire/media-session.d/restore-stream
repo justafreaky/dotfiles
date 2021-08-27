@@ -1,0 +1,17 @@
+{
+ "restore.stream.Output/Audio.application.name:speech-dispatcher-dummy": { "mute": false, "volumes": [ 1.000000 ], "channels": [ "MONO" ] },
+ "restore.stream.Output/Audio.application.name:eSpeak": { "mute": false, "volumes": [ 1.000000 ], "channels": [ "MONO" ] },
+ "restore.stream.Output/Audio.application.name:speech-dispatcher-espeak-ng": { "mute": false, "volumes": [ 1.000000 ], "channels": [ "MONO" ] },
+ "restore.stream.Output/Audio.media.role:Notification": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
+ "restore.stream.Output/Audio.media.role:Music": { "mute": false, "volumes": [ 0.146395, 0.146395 ], "channels": [ "FL", "FR" ] },
+ "restore.stream.Output/Audio.application.name:Firefox": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
+ "restore.stream.Output/Audio.media.role:tphonon.streamid": { "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
+ "restore.stream.Output/Audio.application.name:OblivionLauncher.exe": { "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
+ "restore.stream.Input/Audio.application.name:OblivionLauncher.exe": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000 ], "channels": [ "MONO" ] },
+ "restore.stream.Output/Audio.application.name:Chromium": { "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
+ "restore.stream.Input/Audio.application.name:GNOME Settings": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000 ], "channels": [ "MONO" ] },
+ "restore.stream.Output/Audio.media.role:Test": { "mute": false, "volumes": [ 1.000000 ], "channels": [ "FR" ] },
+ "restore.stream.Input/Audio.application.name:Firefox": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000 ], "channels": [ "MONO" ] },
+ "restore.stream.Output/Audio.application.name:Rack": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000, 1.000000, 1.000000, 1.000000, 1.000000, 1.000000, 1.000000 ], "channels": [ "FL", "FR", "FC", "LFE", "SL", "SR", "RL", "RR" ] },
+ "restore.stream.Input/Audio.application.name:Rack": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000 ], "channels": [ "MONO" ] }
+}

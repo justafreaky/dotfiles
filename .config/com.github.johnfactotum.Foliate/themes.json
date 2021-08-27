@@ -1,0 +1,12 @@
+{
+  "themes": [
+    {
+      "theme-name": "my",
+      "fg-color": "rgb(119,118,123)",
+      "bg-color": "rgb(23,23,23)",
+      "link-color": "cornflowerblue",
+      "invert": false,
+      "dark-mode": true
+    }
+  ]
+}

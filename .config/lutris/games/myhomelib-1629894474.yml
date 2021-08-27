@@ -1,0 +1,5 @@
+game:
+  exe: /home/timur/Books/fb2.Flibusta.Net/MyHomeLib_2_3/MyHomeLib.exe
+  prefix: ~/Games/MyHomeLib
+system: {}
+wine: {}

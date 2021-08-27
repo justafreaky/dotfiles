@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/timur/.config/pomotroid/logs/.7258665de8f1d7d752bcfcedf53e4368382dbb2b-audit.json",
+    "files": [
+        {
+            "date": 1629968352295,
+            "name": "/home/timur/.config/pomotroid/logs/pomotroid-2021-08-26.log",
+            "hash": "6345faf781c2a4efb8cbad46e9dcab77"
+        }
+    ]
+}

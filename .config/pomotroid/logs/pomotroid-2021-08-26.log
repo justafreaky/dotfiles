@@ -1,0 +1,8 @@
+{"message":"Preferences loaded from /home/timur/.config/pomotroid/user-preferences.json","level":"info","hostname":"surok","timestamp":"2021-08-26T08:59:12.297Z"}
+{"message":"app ready","level":"info","hostname":"surok","timestamp":"2021-08-26T08:59:12.331Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"surok","timestamp":"2021-08-26T08:59:12.363Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"surok","timestamp":"2021-08-26T08:59:12.364Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"surok","timestamp":"2021-08-26T08:59:12.364Z"}
+{"message":"creating directory: /home/timur/.config/pomotroid/themes","level":"info","hostname":"surok","timestamp":"2021-08-26T08:59:12.516Z"}
+{"message":"Preferences loaded from /home/timur/.config/pomotroid/user-preferences.json","level":"info","hostname":"surok","timestamp":"2021-08-26T08:59:12.533Z"}
+{"message":"quitting app...","level":"info","hostname":"surok","timestamp":"2021-08-26T08:59:15.510Z"}

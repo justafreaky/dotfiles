@@ -1,0 +1,4 @@
+{
+ "default.profile.alsa_card.usb-Razer_Razer_Kraken_USB-00": { "name": "output:iec958-stereo+input:mono-fallback" },
+ "default.profile.alsa_card.usb-M-AUDIO_M-Track_Hub-00": { "name": "output:analog-stereo" }
+}

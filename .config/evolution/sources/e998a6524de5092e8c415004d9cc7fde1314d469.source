@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=pterodaktill@gmail.com
+Enabled=true
+Parent=8cecf2ba0a6fbeca39dda7451d82dcf19b7bb8e7
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=d542f7c56f6a603571120ff50317ec9a377e7e51
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=pterodaktill@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
